@@ -1,4 +1,4 @@
-<Head> Phase 1 Task of 2 Month Machine Learning Internship </Head><br>
+<Head><bold> Phase 1 Task of 2 Month Machine Learning Internship </bold></Head><br>
 <Head1>Task 1-A</Head1> <br>
 <Body>1). Implementation of Decision Tree Algorithm Using M L Fundamentals
 (program to demonstrate the working of the decision tree algorithm.) <br>2). Back Propagation Algorithm Using M L Fundamentals.
