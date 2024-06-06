@@ -6,8 +6,8 @@
 same using appropriate datasets.)</Body><br>
 <Head1>Task 1-B</Head1> <br>
 <Body> Navie Bayesian Classifier Implemantation using ML Fundamentals. </Body><br>
-<body>This task made a strong foundation of concepts and logic which polishes my ML fundamentals.</body>
-<Head1>Task 2 </Head1> <be>
+<body>This task made a strong foundation of concepts and logic which polishes my ML fundamentals.</body><br>
+<Head1>Task 2 </Head1> <br>
 <body> Rapido Bike Predictor </body> <br>
 <Head1>Task 3 </Head1> <br>
 <body> Health Disorder Predictor using Machine Learning </body>
